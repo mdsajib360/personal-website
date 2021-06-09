@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding:0;
+    
+}
+.header-area {
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-size: 50px;
+}
+#peter{
+width: 605px;
+margin-left: 119px;
+margin-bottom: 235px;
+margin-right: auto;
+margin-top: 381px;
+}
+/* প্রতিটা স্টাইল অবশ্যই ক্লস করে দিতে হবে । নাহলে এমন প্রব্লেম হবে। আর কথায় পরবলেম হইছে। তা এরর বাটনে দেখায় দিবীঈ */
+.name-highlight{
+    color: deeppink;
+    
+}
+
+.half-width{
+    
+    float: left;
+    margin-top: 290px;
+    
+}
+    
+    
+
+
+
+
+.header-area{
+    background-image: url("images/header-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+   
+}
+
+.para{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* ata cilo */
+.link{
+    color: white;
+    background-color: deeppink;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+
+
+youtub-com{
+    color: white;
+    background-color: deeppink;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.half-width {
+    width: 50%;
+
+    border: 1px solid red;
+}
+.half-width2 {
+    width: 50%;
+    border: 1px solid red;
+}
+/* <section> */
+
+
+
+
+
+/*  header part  */
+
+
+
